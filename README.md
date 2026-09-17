@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nihit</h1>
 <h3 align="center">A passionate frontend developer from India CSE Student | Full Stack Developer in Progress</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nihit32&label=Profile%20views&color=0e75b6&style=flat" alt="nihit32" /> </p>
 
 <p align="left"> <a href="https://github.com/nihit32"><img src="https://github.com/nihit32" alt="nihit32" /></a> </p>
 
