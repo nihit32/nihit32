@@ -92,10 +92,6 @@ CSE Student • Frontend Developer • Full Stack Developer in Progress
 <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
 </a>
 
-<a href="https://leetcode.com/u/nihitnigam1209/" target="_blank">
-<img src="https://skillicons.dev/icons?i=leetcode" width="45" />
-</a>
-
 <a href="mailto:work.nihit17@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="45" />
 </a>
@@ -105,28 +101,6 @@ CSE Student • Frontend Developer • Full Stack Developer in Progress
 ---
 
 <!-- ======================= GITHUB STATS ======================= -->
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<a href="https://github.com/nihit32">
-  <img height="180"
-    src="https://github-readme-stats.vercel.app/api?username=nihit32&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Nihit's GitHub Stats"
-  />
-</a>
-
-<a href="https://github.com/nihit32">
-  <img height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihit32&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Nihit's Top Languages"
-  />
-</a>
-
-</p>
-
----
 ## 🔥 Contribution Streak
 
 <p align="center">
@@ -140,18 +114,6 @@ CSE Student • Frontend Developer • Full Stack Developer in Progress
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=nihit32&theme=tokyo-night&hide_border=true&area=true"
-  alt="Nihit's GitHub Activity Graph"
-/>
-
-</p>
-
----
 
 <!-- ======================= CONTRIBUTION GRAPH ======================= -->
 
@@ -170,18 +132,6 @@ CSE Student • Frontend Developer • Full Stack Developer in Progress
 
 <!-- ======================= GITHUB TROPHIES ======================= -->
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=nihit32&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
-  alt="Nihit's GitHub Trophies"
-/>
-
-</p>
-
----
 
 <!-- ======================= FEATURED PROJECTS ======================= -->
 
@@ -294,19 +244,6 @@ Currently practicing **Data Structures & Algorithms in Java**.
 
 ---
 
-<!-- ======================= ACTIVITY ======================= -->
-
-## 📅 My GitHub Activity
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=nihit32&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"
-/>
-
-</p>
-
----
 
 <!-- ======================= FOOTER ======================= -->
 
