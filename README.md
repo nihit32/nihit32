@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihit32&label=Profile%20views&color=0e75b6&style=flat" alt="nihit32" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihit32" alt="nihit32" /></a> </p>
+<p align="left"> <a href="https://github.com/nihit32"><img src="https://github.com/nihit32" alt="nihit32" /></a> </p>
 
 - 🔭 I’m currently working on React + Vite / DevTrack [DevTrack — Developer Productivity Dashboard](working...)
 
