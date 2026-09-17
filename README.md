@@ -110,23 +110,30 @@ CSE Student • Frontend Developer • Full Stack Developer in Progress
 
 <p align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=nihit32&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight"/>
+<a href="https://github.com/nihit32">
+  <img height="180"
+    src="https://github-readme-stats.vercel.app/api?username=nihit32&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Nihit's GitHub Stats"
+  />
+</a>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihit32&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"/>
+<a href="https://github.com/nihit32">
+  <img height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihit32&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Nihit's Top Languages"
+  />
+</a>
 
 </p>
 
 ---
-
 ## 🔥 Contribution Streak
 
 <p align="center">
 
 <img
-src="https://streak-stats.demolab.com/?user=nihit32&theme=tokyonight&hide_border=true"
-alt="Nihit's GitHub Streak"
+  src="https://streak-stats.demolab.com/?user=nihit32&theme=tokyonight&hide_border=true"
+  alt="Nihit's GitHub Streak"
 />
 
 </p>
@@ -138,8 +145,8 @@ alt="Nihit's GitHub Streak"
 <p align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=nihit32&theme=tokyo-night&hide_border=true&area=true"
-alt="Nihit's Contribution Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=nihit32&theme=tokyo-night&hide_border=true&area=true"
+  alt="Nihit's GitHub Activity Graph"
 />
 
 </p>
@@ -153,8 +160,8 @@ alt="Nihit's Contribution Graph"
 <p align="center">
 
 <img
-src="https://ghchart.rshah.org/2f81f7/nihit32"
-alt="Nihit's GitHub Contribution Graph"
+  src="https://ghchart.rshah.org/2f81f7/nihit32"
+  alt="Nihit's GitHub Contribution Graph"
 />
 
 </p>
@@ -168,8 +175,8 @@ alt="Nihit's GitHub Contribution Graph"
 <p align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=nihit32&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
-alt="GitHub Trophies"
+  src="https://github-profile-trophy.vercel.app/?username=nihit32&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
+  alt="Nihit's GitHub Trophies"
 />
 
 </p>
