@@ -101,21 +101,6 @@ CSE Student • Frontend Developer • Full Stack Developer in Progress
 ---
 
 
-<!-- ======================= CONTRIBUTION GRAPH ======================= -->
-
-## 🟩 Contribution Graph
-
-<p align="center">
-
-<img
-  src="https://ghchart.rshah.org/2f81f7/nihit32"
-  alt="Nihit's GitHub Contribution Graph"
-/>
-
-</p>
-
----
-
 <!-- ======================= GITHUB TROPHIES ======================= -->
 
 
