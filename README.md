@@ -100,20 +100,6 @@ CSE Student • Frontend Developer • Full Stack Developer in Progress
 
 ---
 
-<!-- ======================= GITHUB STATS ======================= -->
-## 🔥 Contribution Streak
-
-<p align="center">
-
-<img
-  src="https://streak-stats.demolab.com/?user=nihit32&theme=tokyonight&hide_border=true"
-  alt="Nihit's GitHub Streak"
-/>
-
-</p>
-
----
-
 
 <!-- ======================= CONTRIBUTION GRAPH ======================= -->
 
