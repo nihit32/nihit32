@@ -7,9 +7,6 @@ CSE Student • Frontend Developer • Full Stack Developer in Progress
 </h3>
 
 <p align="center">
-  <a href="https://github.com/nihit32">
-    <img src="https://komarev.com/ghpvc/?username=nihit32&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
   <a href="https://github.com/nihit32?tab=followers">
     <img src="https://img.shields.io/github/followers/nihit32?label=Followers&style=flat" alt="GitHub Followers"/>
   </a>
